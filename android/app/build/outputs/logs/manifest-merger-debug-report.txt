@@ -1,0 +1,342 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [:@react-native-community_async-storage] /Users/Freediees/AAJSO/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-spinkit] /Users/Freediees/AAJSO/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-gesture-handler] /Users/Freediees/AAJSO/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/Freediees/AAJSO/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/Freediees/AAJSO/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/Freediees/AAJSO/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.2.aar/632bea9f73caab685b99660bddfae0a6/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/a0d5a3c02fe37bce69a7fda529371724/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.4.0.aar/6817ab3975ade05a6cc622ef35c5820e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/e9a1bc2cbb59b82e4213a69915f8d644/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/6593e45143dba12e945b693f8ea1b86b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/272b0f57bd5d5c28985c287749358a5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/f5a366c9ef0699cd7764b9c2051e8d88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/4a0868eaf0bf781d2ed32c8251285ed8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/4281dfd5f8e594016309b03652e9333f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/2c57915a1fd376ac4875573af2b2cf28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/50f239bd43dfcd8b7f4fe0fac0d2ea78/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/32488b15d81ef00bd268408b6c583ada/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/9542dd04bde7f36fdd0c569cef1eb0bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/e74c674b6dc05e2d1fcb833f16965187/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/7bb9a3126f262674b930ab4a4c30655a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/6e87f0b5c109acdb96f2c15d96cb2c78/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/291898e12ad377149480562003b4c712/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fdcad53e1fa9d10c4814b27e8f145ac8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/aa85e3cec9ceb0503f8d363d4f16c481/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/7bb3b69b68dfdf5998e8043d9dd6c3ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/6f1a1f05021513574839988f6143bb40/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1b0f6853d8a6b87e3b7ef6b3838c6c12/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4d872bcdb9ff94b836ed19bda3fcc447/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/fcce124527c73250a24e0d9be1c63a98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/28699bd66fe2354e093e354551c4ccaa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b75c9355ebe486744e45ace9e89d4adf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/72c085ba9b41bc30c7964ecab0304049/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/7e9bd3c94e61cee314bf5fcfe8561dc1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/7469534b2858b23b5d7e5fcf816fe6f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/88d972ac473cea48f2c91ad2bde89bdf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/2ec55c96949b00875da00280a5db73a2/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f3af85316df936788f4a6cc9915d3d02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/49460e6d8748603628fdce6350f8b613/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/7593cd189571dc2752520b6cf86d8b92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/c9f886c204cc0b01a6f272f8b09d79c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/841ce4daa575bdb2a0398987799c2747/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ab810d023b80bd5b305362fed20e04ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0a22da2fb6e039e7c8dbb5d75b1dad29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1385c492778f7331f1ffa97879b423cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/0affc0d65ee98b5d50436d97afd4054c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/8812cf012b1004d58cc289cce9b207c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/4bc3a46aaf39dfdfaff1b9c5c6cd21c6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/8eb65b11bf1360b356d34cae08ad7010/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/872461db6848d8fa91d33a34452a076e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/e2a3bb5732cb1309b0cdadbec66fbcb5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/8e4691dac7231acc20b1665b13abb441/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/b8e5aadc888f74a6606eee4f3656245a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/74fc8be1179d73b8b95e1c8d19814165/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/b7cac765c8e0814823b052ccf1d7a486/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/892c468daad9450f42d6e5e2ffb0cb32/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:5:6-66
+MERGED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:5:23-63
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:6:6-71
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:6:23-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:7:6-81
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:7:23-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:8:6-82
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:8:23-79
+application
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from [:react-native-spinkit] /Users/Freediees/AAJSO/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-12:19
+MERGED from [:react-native-spinkit] /Users/Freediees/AAJSO/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-12:19
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.2.aar/632bea9f73caab685b99660bddfae0a6/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.2.aar/632bea9f73caab685b99660bddfae0a6/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/e9a1bc2cbb59b82e4213a69915f8d644/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/e9a1bc2cbb59b82e4213a69915f8d644/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/4a0868eaf0bf781d2ed32c8251285ed8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/4a0868eaf0bf781d2ed32c8251285ed8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/4281dfd5f8e594016309b03652e9333f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/4281dfd5f8e594016309b03652e9333f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/50f239bd43dfcd8b7f4fe0fac0d2ea78/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/50f239bd43dfcd8b7f4fe0fac0d2ea78/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/32488b15d81ef00bd268408b6c583ada/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/32488b15d81ef00bd268408b6c583ada/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/9542dd04bde7f36fdd0c569cef1eb0bc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/9542dd04bde7f36fdd0c569cef1eb0bc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/e74c674b6dc05e2d1fcb833f16965187/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/e74c674b6dc05e2d1fcb833f16965187/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/88d972ac473cea48f2c91ad2bde89bdf/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/88d972ac473cea48f2c91ad2bde89bdf/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/2ec55c96949b00875da00280a5db73a2/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/2ec55c96949b00875da00280a5db73a2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/b7cac765c8e0814823b052ccf1d7a486/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/b7cac765c8e0814823b052ccf1d7a486/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/88d972ac473cea48f2c91ad2bde89bdf/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [:react-native-spinkit] /Users/Freediees/AAJSO/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:13:7-39
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:13:7-39
+	tools:ignore
+		ADDED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:15:7-52
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:15:7-52
+	tools:targetApi
+		ADDED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:14:7-41
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:16:7-34
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:17:7-38
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:11:7-42
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:12:7-38
+activity#com.aajso.MainActivity
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:18:7-27:18
+	android:label
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:22:9-51
+	android:configChanges
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:21:9-79
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:19:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:25:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:28:7-84
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml:28:17-81
+uses-sdk
+INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/Freediees/AAJSO/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/Freediees/AAJSO/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-spinkit] /Users/Freediees/AAJSO/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-spinkit] /Users/Freediees/AAJSO/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/Freediees/AAJSO/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/Freediees/AAJSO/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/Freediees/AAJSO/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/Freediees/AAJSO/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/Freediees/AAJSO/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/Freediees/AAJSO/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Freediees/AAJSO/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Freediees/AAJSO/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.2.aar/632bea9f73caab685b99660bddfae0a6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.2.aar/632bea9f73caab685b99660bddfae0a6/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/a0d5a3c02fe37bce69a7fda529371724/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/a0d5a3c02fe37bce69a7fda529371724/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.4.0.aar/6817ab3975ade05a6cc622ef35c5820e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.4.0.aar/6817ab3975ade05a6cc622ef35c5820e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/e9a1bc2cbb59b82e4213a69915f8d644/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/e9a1bc2cbb59b82e4213a69915f8d644/AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/6593e45143dba12e945b693f8ea1b86b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/6593e45143dba12e945b693f8ea1b86b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/272b0f57bd5d5c28985c287749358a5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/272b0f57bd5d5c28985c287749358a5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/f5a366c9ef0699cd7764b9c2051e8d88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/f5a366c9ef0699cd7764b9c2051e8d88/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/4a0868eaf0bf781d2ed32c8251285ed8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/4a0868eaf0bf781d2ed32c8251285ed8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/4281dfd5f8e594016309b03652e9333f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/4281dfd5f8e594016309b03652e9333f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/2c57915a1fd376ac4875573af2b2cf28/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/2c57915a1fd376ac4875573af2b2cf28/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/50f239bd43dfcd8b7f4fe0fac0d2ea78/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/50f239bd43dfcd8b7f4fe0fac0d2ea78/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/32488b15d81ef00bd268408b6c583ada/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/32488b15d81ef00bd268408b6c583ada/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/9542dd04bde7f36fdd0c569cef1eb0bc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/9542dd04bde7f36fdd0c569cef1eb0bc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/e74c674b6dc05e2d1fcb833f16965187/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/e74c674b6dc05e2d1fcb833f16965187/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/7bb9a3126f262674b930ab4a4c30655a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/7bb9a3126f262674b930ab4a4c30655a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/6e87f0b5c109acdb96f2c15d96cb2c78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/6e87f0b5c109acdb96f2c15d96cb2c78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/291898e12ad377149480562003b4c712/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/291898e12ad377149480562003b4c712/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fdcad53e1fa9d10c4814b27e8f145ac8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/fdcad53e1fa9d10c4814b27e8f145ac8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/aa85e3cec9ceb0503f8d363d4f16c481/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/aa85e3cec9ceb0503f8d363d4f16c481/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/7bb3b69b68dfdf5998e8043d9dd6c3ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/7bb3b69b68dfdf5998e8043d9dd6c3ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/6f1a1f05021513574839988f6143bb40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/6f1a1f05021513574839988f6143bb40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1b0f6853d8a6b87e3b7ef6b3838c6c12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1b0f6853d8a6b87e3b7ef6b3838c6c12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4d872bcdb9ff94b836ed19bda3fcc447/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4d872bcdb9ff94b836ed19bda3fcc447/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/fcce124527c73250a24e0d9be1c63a98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/fcce124527c73250a24e0d9be1c63a98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/28699bd66fe2354e093e354551c4ccaa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/28699bd66fe2354e093e354551c4ccaa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b75c9355ebe486744e45ace9e89d4adf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b75c9355ebe486744e45ace9e89d4adf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/72c085ba9b41bc30c7964ecab0304049/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/72c085ba9b41bc30c7964ecab0304049/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/7e9bd3c94e61cee314bf5fcfe8561dc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/7e9bd3c94e61cee314bf5fcfe8561dc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/7469534b2858b23b5d7e5fcf816fe6f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/7469534b2858b23b5d7e5fcf816fe6f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/88d972ac473cea48f2c91ad2bde89bdf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/88d972ac473cea48f2c91ad2bde89bdf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/2ec55c96949b00875da00280a5db73a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/2ec55c96949b00875da00280a5db73a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f3af85316df936788f4a6cc9915d3d02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f3af85316df936788f4a6cc9915d3d02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/49460e6d8748603628fdce6350f8b613/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/49460e6d8748603628fdce6350f8b613/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/7593cd189571dc2752520b6cf86d8b92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/7593cd189571dc2752520b6cf86d8b92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/c9f886c204cc0b01a6f272f8b09d79c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/c9f886c204cc0b01a6f272f8b09d79c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/841ce4daa575bdb2a0398987799c2747/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/841ce4daa575bdb2a0398987799c2747/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ab810d023b80bd5b305362fed20e04ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ab810d023b80bd5b305362fed20e04ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0a22da2fb6e039e7c8dbb5d75b1dad29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0a22da2fb6e039e7c8dbb5d75b1dad29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1385c492778f7331f1ffa97879b423cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1385c492778f7331f1ffa97879b423cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/0affc0d65ee98b5d50436d97afd4054c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/0affc0d65ee98b5d50436d97afd4054c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/8812cf012b1004d58cc289cce9b207c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/8812cf012b1004d58cc289cce9b207c1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/4bc3a46aaf39dfdfaff1b9c5c6cd21c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/4bc3a46aaf39dfdfaff1b9c5c6cd21c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/8eb65b11bf1360b356d34cae08ad7010/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/8eb65b11bf1360b356d34cae08ad7010/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/872461db6848d8fa91d33a34452a076e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/872461db6848d8fa91d33a34452a076e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/e2a3bb5732cb1309b0cdadbec66fbcb5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/e2a3bb5732cb1309b0cdadbec66fbcb5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/8e4691dac7231acc20b1665b13abb441/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/8e4691dac7231acc20b1665b13abb441/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/b8e5aadc888f74a6606eee4f3656245a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/b8e5aadc888f74a6606eee4f3656245a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/74fc8be1179d73b8b95e1c8d19814165/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/74fc8be1179d73b8b95e1c8d19814165/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/b7cac765c8e0814823b052ccf1d7a486/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/b7cac765c8e0814823b052ccf1d7a486/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/892c468daad9450f42d6e5e2ffb0cb32/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/892c468daad9450f42d6e5e2ffb0cb32/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Freediees/AAJSO/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/Freediees/AAJSO/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/Freediees/AAJSO/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/32488b15d81ef00bd268408b6c583ada/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/32488b15d81ef00bd268408b6c583ada/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/32488b15d81ef00bd268408b6c583ada/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/32488b15d81ef00bd268408b6c583ada/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/e74c674b6dc05e2d1fcb833f16965187/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/e74c674b6dc05e2d1fcb833f16965187/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Freediees/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/e74c674b6dc05e2d1fcb833f16965187/AndroidManifest.xml:24:13-58
